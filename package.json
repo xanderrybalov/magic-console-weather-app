@@ -1,0 +1,20 @@
+{
+  "name": "magic-console-weather-app",
+  "version": "1.0.0",
+  "description": "Weather app for your console on node.js",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xanderrybalov/magic-console-weather-app.git"
+  },
+  "author": "Xander Rybalov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xanderrybalov/magic-console-weather-app/issues"
+  },
+  "homepage": "https://github.com/xanderrybalov/magic-console-weather-app#readme"
+}
